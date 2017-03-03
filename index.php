@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         
-VERSION 1        
+VERSION 2        
         
     </body>
 </html>
