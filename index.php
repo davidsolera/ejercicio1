@@ -11,8 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         
-        hola que talnn s    
-        
+VERSION 1        
         
     </body>
 </html>
